@@ -4,14 +4,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeAndersonBR&show_icons=true&theme=radical)
 
-<div style="display: flex;">
-<p style="color: royalblue; margin-right: 3.5px;">what.i</p>
-<p style="color: palevioletred;">use</p>
-<p>(</p>
-<p style="color: yellow; padding: 0px 3.5px;">event</p>
-<p>) {</p>
-</div>
-
 <div style="display: inline-block;">
 <div style="margin: 1em 0px; display: flex; justify-content: center;">
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
