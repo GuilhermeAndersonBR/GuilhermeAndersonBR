@@ -18,12 +18,3 @@
 </div><hr style="background-color: white; border: none;">
 </div>
 
-<div style="background-color: rgb(10, 5, 15); padding: 10px; box-shadow: 3px 3px 10px black; border-radius: 5px;">
-<h2>Características:</h2>
-<ul>
-<li><h3>Estudante/Studant</h4></li>
-<li><h4>Estudante de Programação há 4 anos<br>Programming student for 4 years</h3></li>
-</ul>
-</div>
-</div>
-
