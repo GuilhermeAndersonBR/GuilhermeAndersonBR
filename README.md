@@ -18,8 +18,6 @@
 </div><hr style="background-color: white; border: none;">
 </div>
 
-<p>}</p>
-
 <div style="background-color: rgb(10, 5, 15); padding: 10px; box-shadow: 3px 3px 10px black; border-radius: 5px;">
 <h2>Características:</h2>
 <ul>
